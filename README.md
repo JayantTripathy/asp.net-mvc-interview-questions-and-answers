@@ -7,7 +7,7 @@
 
 | No. | Questions |
 |---- | ---------
-|1 | [What is MVC?](#What-is-MVC-(Model-view-controller)?)|
+|1 | [What is MVC?](#what-is-mvc-(model-view-controller)?)|
 |2 | [Explain MVC design pattern?](#explain-mvc-design-pattern)|
 |3 | [What is Domain Driven Design and Development?](#What-is-Domain-Driven-Design-and-Development?)|
 |4 | [What is MVP pattern?](#What-is-MVP-pattern?)|
@@ -143,12 +143,15 @@ The MVC model defines web applications with 3 logic layers:
 
 2. ### Explain MVC design pattern?
 
-MVC design pattern splits an application into three main aspects: Model, View, and Controller
+MVC design pattern splits an application into three main aspects: Model, View, and Controller.
+
 **Model** - The Model represents a set of classes that describe the business logic i.e. business model as well as data
 access operations i.e. data model. It also defines business rules for data, which means how the data can be changed and 
 manipulated.
+
 **View** - The View represents the UI components like CSS, jQuery, HTML, etc. It is only responsible for displaying the 
 data that is received from the controller as a result. This also transforms the model(s) into UI.
+
 **Controller** - The Controller is responsible for processing incoming requests. It receives input from users via the View,
 then processes the user's data with the help of the Model and passes the results back to the View. Typically, it acts as 
 the coordinator between the View and the Model
