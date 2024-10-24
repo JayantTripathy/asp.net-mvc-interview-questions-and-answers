@@ -7,9 +7,9 @@
 
 | No. | Questions |
 |---- | ---------
-|1 | [What is MVC?](#what-is-mvc-(model-view-controller)?)|
+|1 | [What is MVC?](#what-is-mvc-model-view-controller)|
 |2 | [Explain MVC design pattern?](#explain-mvc-design-pattern)|
-|3 | [What is Domain Driven Design and Development?](#What-is-Domain-Driven-Design-and-Development?)|
+|3 | [What is Domain Driven Design and Development?](#what-is-domain-driven-design-and-development)|
 |4 | [What is MVP pattern?](#What-is-MVP-pattern?)|
 |5 | [What is MVVM pattern?](#What-is-MVVM-pattern?)|
 |6 | [What is ASP.NET MVC?](#What-is-ASP.NET-MVC?)|
