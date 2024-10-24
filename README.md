@@ -152,6 +152,7 @@ data that is received from the controller as a result. This also transforms the 
 **Controller** - The Controller is responsible for processing incoming requests. It receives input from users via the View,
 then processes the user's data with the help of the Model and passes the results back to the View. Typically, it acts as 
 the coordinator between the View and the Model
+ ![ScreenShot](images/mvc-pattern.jpg)
 
   **[⬆ Back to Top](#table-of-contents)**
 
