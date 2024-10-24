@@ -11,7 +11,7 @@
 |---- | ---------
 |1 | [What is MVC?](#What-is-MVC-(Model-view-controller)?)|
 |2 | [What are the advantages of MVC?](#what-are-the-advantages-of-mvc)|
-|3 | [Explain MVC design pattern?](#Explain-MVC-design-pattern?)|
+|3 | [Explain MVC design pattern?](#explain-mvc-design-pattern)|
 
 1. ### What-is-MVC-(Model-view-controller)?
 
