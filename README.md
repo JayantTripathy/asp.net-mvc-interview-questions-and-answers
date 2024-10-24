@@ -10,7 +10,7 @@
 | No. | Questions |
 |---- | ---------
 |1 | [What is MVC?](#What-is-MVC-(Model-view-controller)?)|
-|2 | [What are the advantages of MVC?](#what-is-the-difference-between-angularjs-and-angular)|
+|2 | [What are the advantages of MVC?](#what-are-the-advantages-of-mvc)|
 
 1. ### What-is-MVC-(Model-view-controller)?
 
