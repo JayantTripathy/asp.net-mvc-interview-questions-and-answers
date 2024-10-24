@@ -11,6 +11,7 @@
 |---- | ---------
 |1 | [What is MVC?](#What-is-MVC-(Model-view-controller)?)|
 |2 | [What are the advantages of MVC?](#what-are-the-advantages-of-mvc)|
+|3 | [Explain MVC design pattern?](#Explain-MVC-design-pattern?)|
 
 1. ### What-is-MVC-(Model-view-controller)?
 
@@ -42,6 +43,20 @@ The MVC model defines web applications with 3 logic layers:
 **Testability** - ASP.NET MVC framework provides better testability of the Web Application and good support for the test-driven development too.
 
 **Lightweight** - ASP.NET MVC framework doesn’t use View State and thus reduces the bandwidth of the requests to an extent. Full features of ASP.NET - One of the key advantages of using ASP.NET MVC is that it is built on top of ASP.NET framework and hence most of the features of the ASP.NET like membership providers, roles, etc can still be used.
+
+  **[⬆ Back to Top](#table-of-contents)**
+
+3. ### Explain MVC design pattern?
+
+MVC design pattern splits an application into three main aspects: Model, View, and Controller
+**Model** - The Model represents a set of classes that describe the business logic i.e. business model as well as data
+access operations i.e. data model. It also defines business rules for data, which means how the data can be changed and 
+manipulated.
+**View** - The View represents the UI components like CSS, jQuery, HTML, etc. It is only responsible for displaying the 
+data that is received from the controller as a result. This also transforms the model(s) into UI.
+**Controller** - The Controller is responsible for processing incoming requests. It receives input from users via the View,
+then processes the user's data with the help of the Model and passes the results back to the View. Typically, it acts as 
+the coordinator between the View and the Model
 
   **[⬆ Back to Top](#table-of-contents)**
 
