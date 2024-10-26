@@ -12,8 +12,8 @@
 |3 | [What is Domain Driven Design and Development?](#what-is-domain-driven-design-and-development)|
 |4 | [What is MVP pattern?](#what-is-mvp-pattern)|
 |5 | [What is MVVM pattern?](#what-is-mvvm-pattern)|
-|6 | [What is ASP.NET MVC?](#what-is-asp.net-mvc)|
-|7 | [How MVC pattern works in ASP.NET MVC?](#how-mv-pattern-works-in-asp-net-mvc)|
+|6 | [What is ASP.NET MVC?](#what-is-asp-net-mvc)|
+|7 | [How MVC pattern works in ASP.NET MVC?](#how-mvc-pattern-works-in-asp-net-mvc)|
 |8 | [How Model, View and Controller communicate with each other in ASP.NET MVC?](#how-model-view-and-controller-communicate-with-each-other-in-asp.net-mvc)|
 |9 | [What are advantages of ASP.NET MVC?](#what-are-advantages-of-asp.net-mvc)|
 |10| [Explain brief history of ASP.NET MVC?](#explain-brief-history-of-asp.net-mvc)|
