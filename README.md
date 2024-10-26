@@ -127,6 +127,7 @@ The MVC model defines web applications with 3 logic layers:
   **[⬆ Back to Top](#table-of-contents)**
 
 **What are the advantages of MVC?**
+
 **Multiple view support** - Due to the separation of the model from the view, the user interface can display multiple views of the same data at the same time.
 
 **Change Accommodation** - User interfaces tend to change more frequently than business rules (different colors, fonts, screen layouts, and levels of support for new devices such as cell phones or PDAs) because the model does not depend on the views, adding new a type of views to the system generally does not affect the model. As a result, the scope of change is confined to the view.
